@@ -1,5 +1,8 @@
 _repo: Historias-Brazileiras_62525
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62525-h/images/cover.jpg
 creator:
   author:
     agent_name: Taunay, Alfredo d'Escragnolle Taunay, Visconde de
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36495
     wikipedia: http://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62525#Historias-Brazileiras
 gutenberg_issued: '2020-06-29'
 gutenberg_type: Text
 identifiers:
